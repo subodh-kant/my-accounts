@@ -1,0 +1,33 @@
+<html>
+<head>
+<title> This is Subodh Kant Singh</title>
+<style type="text/css">
+  h3 {font-style:bold;
+font-style:italic;
+font-size:140;
+      color:brown;}
+h4 {font-style:underline;
+     font-family:helvetica;
+     font-size:130;
+       color:blue;}
+p {line-height:140%;
+      font-size:80;
+      color:green;}
+body {
+  background-color: lightblue;
+}
+</style>
+<h3 style="border: 2px solid Tomato;">Introduction</h3>
+</head>
+<body>
+<p><strong> Name- </strong> Subodh Kant Singh<br />
+<strong> JOURNALIST </strong>  <br />
+ </p>
+<h4 style="border: 2px solid DodgerBlue;">Some important links</h4>
+<a href="https://instagram.com/designated_sabbatical?igshid=zhw5lfw0uih4 "> <img src="https://www.whitesborolibrary.org/wp-content/uploads/2017/07/Instagram-app-logo.jpg" /> </a>
+<a href="https://www.facebook.com/subodh.singh"> <img src="https://www.google.com/search?client=ms-android-oppo-rvo3&bih=843&biw=424&hl=en-GB&sxsrf=ALeKk02zjSDIPX-ves3KpgQ9k5q_XOggNA%3A1605950305328&ei=Ydu4X8_EE5eN4-EPhfy-yA4&q=facebook+logo+&oq=facebook+logo+&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBwgjEMkDECcyCggAELEDEBQQhwIyBwgAEBQQhwIyAggAMgIIADIICAAQsQMQgwEyAggAMgIIADoECAAQR1D2OFiWQWDURmgAcAF4AIABigKIAbQHkgEFMC4xLjOYAQCgAQHIAQjAAQE&sclient=mobile-gws-wiz-serp#imgrc=wvvo7KGYYIHqDM" /> </a>
+<a href="https://twitter.com/subodhkantsingh"> <img src="https://www.flaticon.com/free-icon/twitter_124021" /> </a>
+<a href="https://www.linkedin.com/in/subodh-kant-singh-b1064a15"> <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png /> </a>
+</body>
+</html>
+© 2020 GitHub, Inc.
