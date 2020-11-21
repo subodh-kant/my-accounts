@@ -19,7 +19,7 @@ body {background-color: lightblue;}
 <h3 style="border: 2px solid Tomato;">Introduction</h3>
 </head>
 <body>
-<p><strong> Name- </strong> Subodh Kant Singh <br />
+<p> <strong> Name- </strong> Subodh Kant Singh <br />
 <strong> JOURNALIST </strong> 
  </p>
 <h4 style="border: 2px solid DodgerBlue;"> Some important links </h4>
@@ -29,4 +29,8 @@ body {background-color: lightblue;}
 <a href="https://www.linkedin.com/in/subodh-kant-singh-b1064a15"> <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png /> </a>
 </body>
 </html>
+
+
+
+
 © 2020 GitHub, Inc.
