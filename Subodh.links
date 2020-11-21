@@ -5,15 +5,19 @@
   h3 {font-style:bold;
 font-style:italic;
 font-size:140;
-      color:brown;}
+      color:brown;
+       }
 h4 {font-style:underline;
      font-family:helvetica;
      font-size:130;
-       color:blue;}
+       color:blue;
+      }
 p {line-height:140%;
       font-size:80;
-      color:green;}
-body {background-color: lightblue;}
+      color:green;
+    }
+body {background-color: lightblue;
+     }
 </style>
 <h3 style="border: 2px solid Tomato;">Introduction</h3>
 </head>
